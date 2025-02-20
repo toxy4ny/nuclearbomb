@@ -6,7 +6,7 @@ Nuclei AI Prompts Scanning Framework for Nuclei v.3.3.9
           KL3FT3Z (https://github.com/toxy4ny) - Bash-Scripting.
           ProjectDiscovery (https://projectdiscovery.io/) - Nuclei, Katana.
 
-Features:
+# Features:
 * Performing Recon using the ProjectDiscovery program.
 * Scanning and collecting active and passive links.
 * info - Quick collection of information using Nuclei.
@@ -24,7 +24,7 @@ Features:
 * Search for vulnerabilities Cloud Security Issues.
 * Search for vulnerabilities Web Cache Poisoning.
 
-How to use:
+# How to use:
 git clone https://github.com/toxy4ny/nuclearbomb
 cd nuclearbomb && chmod a+x ./nuclearbomb.sh
 ./nuclearbomb.sh
