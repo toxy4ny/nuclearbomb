@@ -30,5 +30,5 @@ Nuclei AI Prompts Scanning Framework for Nuclei v.3.3.9
 git clone https://github.com/toxy4ny/nuclearbomb
 cd nuclearbomb && chmod a+x ./nuclearbomb.sh
 ./nuclearbomb.sh
-
+Create file "domains" and paste target url's.
 Enjoy!
